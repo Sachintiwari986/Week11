@@ -16,7 +16,7 @@ func Multiply(a, b int) int {
 
 func main() {
 	fmt.Println("Addition:", Add(2, 3))
-	fmt.Println("Subtration:", Subtract(2, 3))
-	fmt.Println("Multiply:", Multiply(2, 3))
+	fmt.Println("Subtration:", Subtract(9, 4))
+	fmt.Println("Multiply:", Multiply(7, 8))
 
 }
